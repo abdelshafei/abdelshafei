@@ -1,6 +1,6 @@
 <!-- Banner (optional, but looks cool!) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=160&section=header&text=Abdelrahman%20ElShafay&fontAlign=50&fontAlignY=40&fontSize=40&desc=Software%20%7C%20Systems%20%7C%20Distributed%20%7C%20Embedded&descSize=20&descAlign=60" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7971E,100:FFD200&height=160&section=header&text=Abdelrahman%20ElShafay&fontAlign=50&fontAlignY=40&fontSize=40&desc=Software%20%7C%20Systems%20%7C%20Full%20Stack%20%7C%20Embedded&descSize=20&descAlign=60" alt="banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Abdelrahman 👋</h1>
