@@ -42,13 +42,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-- [**ASCII Camera**](https://github.com/abdelshafei/ascii-camera):  
-  *Turn your webcam feed into live ASCII art. Lightweight, fast, and fun to hack on.*
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
