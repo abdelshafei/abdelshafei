@@ -17,7 +17,7 @@
 
 ## 🖥️ What I'm Up To
 
-- 🔨 **Currently working on:** A **FUSE-based network filesystem in C** & **Device Driver developement** on Raspberry pi 
+- 🔨 **Currently working on:** A **Lip-Reading Machine Learning Model** & **Device Driver developement** on Raspberry pi 
 - 🌱 **Learning:** Kernel modules on Raspberry Pi, low-level drivers, embedded systems  
 - 👀 **Interests:** Distributed computing, embedded, Machine Learning and Web Dev  
 - 💼 **Looking for:** Software development internships
