@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="mailto:ar.elshafei@gmail.com">
-    <img src="https://img.shields.io/badge/email-ar.elshafei@gmail.com-blue?style=flat-square&logo=gmail"/>
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/abdelshafei">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
