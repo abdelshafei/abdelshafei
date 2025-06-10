@@ -45,7 +45,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelshafei&show_icons=true&theme=chartreuse-dark" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelshafei&show_icons=true&theme=chartreuse-dark" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelshafei&layout=compact&theme=radical" height="165"/>
 </p>
 
