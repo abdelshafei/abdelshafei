@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelshafei&show_icons=true&theme=chartreuse-dark" height="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelshafei&layout=compact&theme=radical" height="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelshafei&layout=compact&theme=radical" height="70%"/>
   <img src="https://streak-stats.demolab.com/?user=abdelshafei&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D" width="60%" height="50%"/>
 </p>
 </p>
