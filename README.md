@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="mailto:ar.elshafei@gmail.com">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg"/>
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/abdelshafei">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" />
